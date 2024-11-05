@@ -1,10 +1,11 @@
 # 👋 Hi!
 
-I'm Steven, a 3rd-year Computer Science student at the University of British Columbia. Currently, I'm interested in frontend development and creating user-friendly web apps to accelerate productivity. In my spare time, you will find me training with [UBC's competitive Dragonboat team](https://www.instagram.com/ubc.current/) for our appearance at Worlds 2024 in Italy!
+I'm Steven, a 4th-year Computer Science student at the University of British Columbia. Currently, I'm interested in frontend development and creating user-friendly web apps to accelerate productivity. In my spare time, you will find me training with [Vancouver's top dragonboat team](https://www.instagram.com/juicedragonboat/)!
 
 Check out my [website](https://stevenshao.dev/) for more of what I'm working on!
 
 ## 🖥️ Internships
+- **Software Developer** - [`@Visier`](https://www.visier.com/) - Planning team (2024)
 - **Software Developer** - [`@Ensemble`](https://www.ensemble.com/) - Company website, multimedia web app (2022)
 - **Development Support** - [`@EA`](https://www.ea.com/en-ca) - Shipping FIFA 2021 (2020)
 
